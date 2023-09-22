@@ -1,0 +1,36 @@
+.bulat {
+  bottom: -30%;
+  left: -12%;
+  width: 50%;
+  height: 110%;
+}
+
+.outlinecircle {
+  outline: 8px solid pink;
+  outline-offset: 1.5em;
+}
+
+.circle {
+  bottom: -30%;
+  left: -50%;
+  width: 100px;
+  height: 100px;
+  border: 2px solid #3498db;
+  border-radius: 100%;
+}
+
+.card1 {
+  position: relative;
+  bottom: -10%;
+  right: -50%;
+  rotate: -10deg;
+  z-index: 5;
+}
+
+.card2 {
+  position: relative;
+  bottom: -2%;
+  right: -38%;
+  rotate: -25deg;
+  z-index: 10;
+}
